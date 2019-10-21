@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #704-966-744	11922	11930
-API_key = "AIzaSyA7NJq4VbyPNeMMxCUMImziDrP28wDYTc8"
+# API_key
 #flooding
 #API use
 #multiple connection
